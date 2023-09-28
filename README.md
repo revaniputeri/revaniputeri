@@ -5,7 +5,7 @@
 <!-- ```
 Hello World. i'm a kevin software engineer with a background in Security Testing and Programming.
 ``` -->
-<img align="right" src="./img/helaur.gif" width='200"'>
+<img align="right" src="./img/wave.gif" width='150"'>
 
 - 🔭 Hey there, I'm a newbie in the programming world! 🌟
 - 🌱 I'm just starting to figure out this coding stuff, one step at a time. 🚶‍♂️
