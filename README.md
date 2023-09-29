@@ -3,7 +3,7 @@
 ### Hi there, I'm Reva
 
 <!-- ```
-Hello World. i'm a kevin software engineer with a background in Security Testing and Programming.
+
 ``` -->
 <img align="right" src="./img/heloo.gif" width='150"'>
 
@@ -15,7 +15,7 @@ Hello World. i'm a kevin software engineer with a background in Security Testing
 - :bulb:
 - ⚡ Fun fact: I love to learn new things
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/KevinASaputra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sayakevin666) -->
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/revaniputeri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/revaniputeri) -->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/revaniputeri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/revaniputeri)
 [![Github Follow](https://img.shields.io/github/followers/revaniputeri?color=1DA1F2&label=Github&logo=github&style=for-the-badge)](https://github.com/revaniputeri)
@@ -40,13 +40,13 @@ Hello World. i'm a kevin software engineer with a background in Security Testing
 [LinkedIn]: https://www.linkedin.com/in/revaninanda/
 
 <br></br>
-<!-- [![Github Stats](https://github-readme-stats.dipanjanpanja6.vercel.app/api?username=KevinASaputra&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)](https://github.com/KevinASaputra) -->
+<!-- [![Github Stats](https://github-readme-stats.dipanjanpanja6.vercel.app/api?username=revaniputeri&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)](https://github.com/revaniputeri) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaniputeri&layout=compact)](https://github.com/revaniputeri)
 <br></br>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinASaputra&show_icons=true&theme=radical) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revaniputeri&show_icons=true&theme=radical) -->
 <!--
-**KevinASaputra/KevinASaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
