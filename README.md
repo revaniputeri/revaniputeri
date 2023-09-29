@@ -1,4 +1,4 @@
-![Hi](https://github.com/revaniputeri/revaniputeri/blob/master/img/header_.png)
+![Hi](https://github.com/revaniputeri/revaniputeri/blob/master/img/header2.png)
 
 ### Hi there, I'm Reva
 
