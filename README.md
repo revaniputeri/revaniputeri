@@ -7,7 +7,7 @@
 ``` -->
 <img align="right" src="./img/heloo.gif" width='150"'>
 
-- 🔭 Hey there, I'm a newbie in the programming world! 🌟
+- 🔭 I'm a newbie in the programming world! 🌟
 - 🌱 I'm just starting to figure out this coding stuff, one step at a time. 🚶‍♂️
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Curious souls, don't hesitate to summon me for assistance
