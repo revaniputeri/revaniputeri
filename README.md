@@ -1,18 +1,17 @@
-![Hi](https://github.com/revaniputeri/revaniputeri/blob/master/img/header_.png)
+![Hi](https://github.com/revaniputeri/revaniputeri/blob/master/img/header2.png)
 
-### Hi there, I'm Reva
+### Hi there, I'm Reva 🍬
 
 <!-- ```
 
 ``` -->
 <img align="right" src="./img/heloo.gif" width='150"'>
 
-- 🔭 I'm a newbie in the programming world! 🌟
+- 💮 I'm a newbie in the programming world! 🌟
 - 🌱 I'm just starting to figure out this coding stuff, one step at a time. 🚶‍♂️
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Curious souls, don't hesitate to summon me for assistance
+- 💬 Curious souls, don't hesitate to summon me for assistance 🤙
 - 😄 So excited to see where this path leads me! 🌱✨
-- :bulb:
+- :butterfly:
 - ⚡ Fun fact: I love to learn new things
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/revaniputeri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/revaniputeri) -->
