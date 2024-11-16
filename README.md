@@ -1,5 +1,3 @@
-![Hi](https://github.com/revaniputeri/revaniputeri/blob/master/img/header2.png)
-
 ### Hi there, I'm Reva 🍬
 
 <!-- ```
@@ -11,12 +9,12 @@
 - 🌱 I'm just starting to figure out this coding stuff, one step at a time. 🚶‍♂️
 - 💬 Curious souls, don't hesitate to summon me for assistance 🤙
 - 😄 So excited to see where this path leads me! 🌱✨
-- :butterfly:
+<br></br>
 - ⚡ Fun fact: I love to learn new things
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/revaniputeri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/revaniputeri) -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/revaniputeri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/revaniputeri)
+[![Twitter Follow](https://img.shields.io/twitter/follow/revaniputeri?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 [![Github Follow](https://img.shields.io/github/followers/revaniputeri?color=1DA1F2&label=Github&logo=github&style=for-the-badge)](https://github.com/revaniputeri)
 
 ### Connect with me
@@ -35,7 +33,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/revaniputeri#gh-dark-mode-only)
 
 [Instagram]: https://www.instagram.com/revaniputeri/
-[Twitter]: https://twitter.com/revaniputeri/
 [LinkedIn]: https://www.linkedin.com/in/revaninanda/
 
 <br></br>
