@@ -6,7 +6,7 @@
 <img align="right" src="./img/heloo.gif" width='150"'>
 
 - 💮 I'm a newbie in the programming world! 🌟
-- 🌱 I'm just starting to figure out this coding stuff, one step at a time. 🚶‍♂️
+- 🌱 I'm just starting to figure out this coding stuff, one step at a time.
 - 💬 Curious souls, don't hesitate to summon me for assistance 🤙
 - 😄 So excited to see where this path leads me! 🌱✨
 <br></br>
